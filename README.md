@@ -1,3 +1,3 @@
-# Introdução à Ciência da Computação com Python Parte 1
+# Introdução à Ciência da Computação com Python
 
 Atividades e exercícios realizados durante o curso
